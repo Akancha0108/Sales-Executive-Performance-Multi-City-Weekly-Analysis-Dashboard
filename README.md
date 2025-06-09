@@ -30,7 +30,7 @@ This is an interactive **Sales Performance Dashboard** created using Microsoft E
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the `Sales_Data_Analysis.xlsx` file.
 2. Open in Microsoft Excel .
