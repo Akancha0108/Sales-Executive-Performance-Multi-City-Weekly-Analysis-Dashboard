@@ -32,7 +32,7 @@ This is an interactive **Sales Performance Dashboard** created using Microsoft E
 
 ##  How to Use
 
-1. Download the `Sales_Data_Analysis.xlsx` file.
+1. Download the `Sales_Data_Analysis.xlsm` file.
 2. Open in Microsoft Excel .
 3. Enable **Macros** and **Active Content** when prompted.
 4. Use the slicers and dashboard buttons to explore different city-wise reports.
